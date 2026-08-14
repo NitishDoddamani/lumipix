@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/resize-image</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/compress-image</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/change-file-size</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/change-dpi</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/convert-image</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/remove-background</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/ai-upscale</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/image-to-pdf</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/merge-pdf</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/remove-pages</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://YOUR-DOMAIN-HERE.com/crop-image</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

@@ -1,7 +1,17 @@
+import Navbar from "./components/layout/Navbar";
+import Footer from "./components/layout/Footer";
+import AppRoutes from "./routes/AppRoutes";
+
 export default function App() {
   return (
-    <div>
-      <h1>Welcome to Lumipix 🚀</h1>
-    </div>
+    <>
+      <Navbar />
+
+      <div className="min-h-screen">
+        <AppRoutes />
+      </div>
+
+      <Footer />
+    </>
   );
 }

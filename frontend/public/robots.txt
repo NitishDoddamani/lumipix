@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: lumipix.vercel.app/sitemap.xml
