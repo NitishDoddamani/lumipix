@@ -90,15 +90,15 @@ export default function Footer() {
 
             <div className="flex flex-col gap-3">
 
-              <Link className="text-zinc-400 hover:text-white">
+              <Link className="text-zinc-400 hover:text-white" to="/merge-pdf">
                 Merge PDF
               </Link>
 
-              <Link className="text-zinc-400 hover:text-white">
-                Split PDF
+              <Link className="text-zinc-400 hover:text-white" to="/remove-pages">
+                Remove Pages
               </Link>
 
-              <Link className="text-zinc-400 hover:text-white">
+              <Link className="text-zinc-400 hover:text-white" to="/image-to-pdf">
                 Image to PDF
               </Link>
 
@@ -120,19 +120,15 @@ export default function Footer() {
 
             <div className="flex flex-col gap-3">
 
-              <Link className="text-zinc-400 hover:text-white">
+              <Link className="text-zinc-400 hover:text-white" to="/about">
                 About
               </Link>
 
-              <Link className="text-zinc-400 hover:text-white">
-                Pricing
-              </Link>
-
-              <Link className="text-zinc-400 hover:text-white">
+              <Link className="text-zinc-400 hover:text-white" to="/contact">
                 Contact
               </Link>
 
-              <Link className="text-zinc-400 hover:text-white">
+              <Link className="text-zinc-400 hover:text-white" to="/privacy-policy">
                 Privacy Policy
               </Link>
 

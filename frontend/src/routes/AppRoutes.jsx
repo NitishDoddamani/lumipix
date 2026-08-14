@@ -2,6 +2,9 @@ import { Routes, Route } from "react-router-dom";
 
 import Home from "../pages/Home";
 import NotFound from "../pages/NotFound";
+import About from "../pages/About";
+import Contact from "../pages/Contact";
+import PrivacyPolicy from "../pages/PrivacyPolicy";
 import ResizeImage from "../tools/ResizeImage/ResizeImage";
 import CompressImage from "../tools/CompressImage/CompressImage";
 import ChangeFileSize from "../tools/ChangeFileSize/ChangeFileSize";
@@ -40,6 +43,12 @@ export default function AppRoutes() {
       <Route path="/remove-pages" element={<PdfPageRemover />} /> 
 
       <Route path="/crop-image" element={<CropImage />} />
+
+      <Route path="/about" element={<About />} />
+
+      <Route path="/contact" element={<Contact />} />
+
+      <Route path="/privacy-policy" element={<PrivacyPolicy />} />
 
       <Route path="*" element={<NotFound />} /> 
 
